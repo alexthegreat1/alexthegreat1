@@ -4,8 +4,8 @@ I'm currently studying Computer Science at UCLA. Besides my major, I'm also pass
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexthegreat1&count_private=true&show_icons=true&bg_color=15,3b63ff,3bc5ff&title_color=fff&text_color=fff)
 
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/alexthegreat1/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/alexthegreat1/github-stats/blob/master/generated/languages.svg)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexthegreat1&layout=compact&langs_count=10) -->
 
